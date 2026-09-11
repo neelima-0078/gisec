@@ -52,7 +52,7 @@ Run all cells in order, top to bottom. A GPU is recommended but not required —
 
 ## Repository structure
 
-- `gisec_poisoning_pipeline.ipynb` — full pipeline: baseline, attacks, detectors, cleaning, stress test
+- `GISEC_poisoning_pipeline.ipynb` — full pipeline: baseline, attacks, detectors, cleaning, stress test
 - `gisec-submission-report.pdf` — 5-page report (objective, solution, validation, results)
 - `README.md` — this file
 
